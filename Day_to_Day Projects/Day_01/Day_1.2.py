@@ -1,0 +1,30 @@
+name = input("Enter your Name : ")
+pname = input("Enter your Project Name : ")
+nof = int(input("Enter the no.of features in the project : "))
+ehours = int(input("Enter the estimated no.of hours taken per feature: "))
+ndev = int(input("Enter no.of developers : "))
+
+tdev = nof * ehours
+ehpd = tdev/ndev
+edays = tdev/6
+
+print("====================================")
+print(f"    {pname} Project Estimate       ")
+print("====================================")
+print()
+print()
+print(f"Developer : {name}")
+print(f"Project : {pname}")
+print(f"Features : {nof}")
+print(f"Hours / Feature : {ehours}")
+print(f"Developers : {ndev}")
+print()
+print("------------------------------------")
+print()
+print(f"Total Hours : {tdev}")
+print(f"Hours / Dev : {ehpd}")
+print(f"Dev Days : {edays}")
+print("------------------------------------")
+print()
+print("Good Luck building it!!")
+print("====================================")
