@@ -1,0 +1,5 @@
+s = input("Enter a string : ")
+s.strip()
+list = s.split()
+clean_s = " ".join(list)
+print(f"The clean and normalized version of the string is {clean_s}")

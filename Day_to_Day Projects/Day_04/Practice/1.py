@@ -1,0 +1,2 @@
+s = input("Enter a string : ")
+print(f"The length of the string is {len(s)}, The first character is {s[0]}, the last character is {s[-1]}, the uppercase version is {s.upper()}, the lowercase version is {s.lower()} and the reversed version of the string is {s[::-1]}.")
