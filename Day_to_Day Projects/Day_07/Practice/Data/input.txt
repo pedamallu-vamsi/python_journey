@@ -1,0 +1,5 @@
+Python is an amazing programming language. It is widely used in web development, automation, and artificial intelligence.
+
+Learning Python takes practice. Do you enjoy solving coding problems? Consistent practice makes you a better programmer!
+
+File handling allows Python programs to read and write data. This is especially useful when building AI applications that process documents.

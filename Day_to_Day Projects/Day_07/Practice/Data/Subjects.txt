@@ -1,0 +1,11 @@
+DSA
+CPP
+C
+Python
+React
+Next.js
+MongoDB
+MySQL
+Node
+FASTAPI
+Express

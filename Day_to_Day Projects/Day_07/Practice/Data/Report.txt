@@ -1,0 +1,8 @@
+Document Analysis
+======================================
+Characters : 385
+Words : 55
+Lines : 5
+Sentences : 7
+Longest Word : intelligence.
+Most Frequent Word : python

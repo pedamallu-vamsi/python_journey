@@ -1,0 +1,6 @@
+Total Messages : 2
+User Messages : 1
+AI Messages : 1
+Total Words : 9
+Longest Message : Hi I am an AI
+Most Frequent Word : hi
